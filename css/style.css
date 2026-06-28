@@ -769,6 +769,10 @@ span {
     width: 250px;
   }
 }
+@media (max-width: 687px) {
+.footerwrapper{
+  padding: 10px;
+}}
 
 @media only screen and (max-width: 588px) {
   .like1 {
