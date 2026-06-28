@@ -605,7 +605,21 @@
     .footer1{
       margin: 0;
       
+      
     }
+    .inptswrapper{
+      width: 400px;
+      
+     
+    }
+ .name,
+.phone,
+.email,
+.message {
+  width: 315px;
+  height: 44px;
+  background-color: #d7dadd;
+}
     .footerwrapper{
     padding: 20px;
     height: 800px;
